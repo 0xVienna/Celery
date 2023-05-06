@@ -23,7 +23,7 @@ b. Search and install Roblox.
 3. (Optional) Sign in back to your account and you should be prepared for Celery Exploit, then Go to 'How to install Celery Exploit'.
 
 # (IMPORTANT) How to install Celery exploit
-1. Download the release from the website [here](https://google.com).
+1. Download the release from the website [here](https://0xvienna.github.io/Celery/).
 2. Make a folder on your Windows Desktop; recommended folder name: Celery Exploit
 3. Go to your antivirus and exclude/whitelist the folder you just created (on desktop)
 4. Put the zip file downloaded (Release) to the folder on the desktop
@@ -34,7 +34,18 @@ b. Search and install Roblox.
 - Your antivirus should not take any actions because Celery Exploit is only running from the folder you created.
 
 # How to use Celery Exploit
-- Work In Progress
+1. Open Celery (from taskbar or from the folder you created).
+2. Press 'Start using Celery'.
+3. Join a Roblox game.
+4. (Optional) Get your script(s)
+a. Get it (text format)
+b. Paste it into the editor
+5. Press 'Attach' (actually this is a form of 'inject')
+6. Press the play button
+
+- Troubleshooting -
+
+- If your script doesn't load, it may mean it is not supported by Celery.
 
 # Issues/bugs
 - Some scripts may not work: Vynixius Doors, Doors hardcore mode, etc
