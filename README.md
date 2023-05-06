@@ -7,6 +7,11 @@
 # Celery (level 7 exploit)
 The new level 7 Roblox exploit that BYPASSES BYFRON using UWP-Microsoft Store measures. This is very powerful because Roblox currently has Byfron on their clients and they removed access of joining games in 32-bit.
 
+Why you should use Celery - Lv. 7 Exploit
+- Safe and reliable; it comes from the Microsoft Store!
+- Powerful; bypasses Byfron by using non-Byfron libraries while not being on a expired client!
+- Easy to use; no need all those Tampermonkey scripts and stuff like that!
+
 # Operating Systems
 Celery supports:
 
