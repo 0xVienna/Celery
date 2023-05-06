@@ -15,12 +15,11 @@ Celery supports:
 
 # (IMPORTANT) How to prepare for use of Celery Exploit
 1. Uninstall your Roblox client BY DELETING THE FROM %appdata%;
-a. Press Windows+R and type %appdata%,
-b. Find Roblox folder and delete it.
-2. 
-a. Open Microsoft Store,
-b. Search and install Roblox.
-3. (Optional) Sign in back to your account and you should be prepared for Celery Exploit, then Go to 'How to install Celery Exploit'.
+2. Press Windows+R and type %appdata%
+3. Find Roblox folder and delete it.
+4. Open Microsoft Store
+5. Search and install Roblox.
+6. (Optional) Sign in back to your account and you should be prepared for Celery Exploit, then Go to 'How to install Celery Exploit'.
 
 # (IMPORTANT) How to install Celery exploit
 1. Download the release from the website [here](https://0xvienna.github.io/Celery/).
@@ -37,9 +36,7 @@ b. Search and install Roblox.
 1. Open Celery (from taskbar or from the folder you created).
 2. Press 'Start using Celery'.
 3. Join a Roblox game.
-4. (Optional) Get your script(s)
-a. Get it (text format)
-b. Paste it into the editor
+4. (Optional) Get your script(s), Get it (text format), Paste it into the editor
 5. Press 'Attach' (actually this is a form of 'inject')
 6. Press the play button
 
@@ -49,5 +46,4 @@ b. Paste it into the editor
 
 # Issues/bugs
 - Some scripts may not work: Vynixius Doors, Doors hardcore mode, etc
-- 
 
