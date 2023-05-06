@@ -15,8 +15,12 @@ Celery supports:
 
 # How to install and use Celery exploit
 1. Download the release from the website [here](https://google.com).
-2. Make a folder on your Windows Desktop and put the zip file there; recommended folder name: Celery Exploit.
-3. Extract the zip file in the folder you created.
-4. Finally, you can see a folder called 'Release' and open it.
-5. Open 'CeleryApp.exe' and OPTIONALLY, pin it to your taskbar for easy access.
+2. Make a folder on your Windows Desktop; recommended folder name: Celery Exploit
+3. Go to your antivirus and exclude/whitelist the folder you just created (on desktop)
+4. Put the zip file downloaded (Release) to the folder on the desktop
+5. Extract the zip file in the folder you created.
+6. Finally, you can see a folder called 'Release' and open it.
+7. Open 'CeleryApp.exe' and OPTIONALLY, pin it to your taskbar for easy access.
+
+- Your antivirus should not take any actions because Celery Exploit is only running from the folder you created.
 
