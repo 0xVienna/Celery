@@ -2,8 +2,12 @@
 To the people who thinks this is a virus, you're welcome.
 
 Starting from now on:
+
 · Using Cloudflare servers to prevent copyright
+
 · Using a personal domain :) - good luck Celery Official!
+
+• Moving on to... https://celery.ariez.me
 
 # README
 - I am not responsible for any damages caused.
