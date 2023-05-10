@@ -1,7 +1,7 @@
 
 # README
 - I am not responsible for any damages caused.
-- I am not the creator of this exploit, nor involved in the development team; ask me to take it down if you want, my Discord tag is ...WinVienna!!#8724 or my YouTube Channel: Lewis's Channel.
+- I am the creator of this website :)
 
 <img align="left" height="120" src="https://www.pngmart.com/files/5/Celery-Transparent-PNG.png" alt="palera1n logo" style="float: left;"/>
 
