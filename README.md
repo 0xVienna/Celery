@@ -51,7 +51,7 @@ Celery supports:
 - If your script doesn't load, it may mean it is not supported by Celery.
 
 # Issues/bugs
-- Some scripts may not work: Vynixius Doors, Doors hardcore mode, etc
+- Problems attaching? Update Celery by restarting Celery Installer.
 
 # Home Migration!
 To the people who thinks this is a virus, you're welcome.
