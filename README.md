@@ -2,6 +2,7 @@
 # README
 - I am not responsible for any damages caused.
 - I am the creator of this website :)
+- Download Celery from the releases or from [here](https://0xvienna.github.io/Celery/).
 
 <img align="left" height="120" src="https://www.pngmart.com/files/5/Celery-Transparent-PNG.png" alt="palera1n logo" style="float: left;"/>
 
