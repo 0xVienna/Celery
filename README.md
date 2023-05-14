@@ -47,7 +47,13 @@ Celery supports:
 5. Press 'Attach' (actually this is a form of 'inject')
 6. Press the play button
 
-- Troubleshooting -
+# How to update Celery exploit
+1 (for older Celery releases). If you don't have or haven't used Celery Installer, you have to DELETE EVERYTHING IN THE CELERY FOLDER, then download the new release here[https://0xvienna.github.io/Celery]
+2. Run the Celery Installer (CeleryInstaller.exe)
+3. If it says up to date, you are good to go, else just update it from there.
+
+
+# Troubleshooting -
 
 - If your script doesn't load, it may mean it is not supported by Celery.
 
