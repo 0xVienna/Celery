@@ -20,6 +20,12 @@ Celery supports:
 - Microsoft Windows 10 [Tested, working on unknown build] (with Microsoft Store; LTSC will need Windows Store installer helper)
 - Microsoft Windows 11 [Tested, working on 22H2] (with Microsoft Store; LTSC will need Windows Store installer helper)
 
+# (NEW WORKING) FIX CELERY ISSUES
+If you are having issues with attaching you've come to the right place.
+Please install the stuff and read his thread here [here](https://github.com/0xVienna/Celery/issues/21).
+This may fix the attaching problem which is update.
+
+
 # (IMPORTANT) How to prepare for use of Celery Exploit
 1. Uninstall your Roblox client BY DELETING THE FROM %appdata%;
 2. Press Windows+R and type %appdata%
