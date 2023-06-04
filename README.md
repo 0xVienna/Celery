@@ -66,6 +66,13 @@ This may fix the attaching problem which is update.
 # Issues/bugs
 - Problems attaching? Update Celery by restarting Celery Installer.
 
+# Script(s) support
+Celery doesn't support SOME loadstrings such as DEX/Explorer but here are some scripts that work:
+
+• Infinite Yield (New)
+
+• Doors - Vynixius
+
 # Home Migration!
 To the people who thinks this is a virus, you're welcome.
 
