@@ -8,7 +8,7 @@
   color: white; /* Set the button text color to white */
   border-radius: 8px; /* Rounded corners for the button */
   text-decoration: none;
-  transition: background-image 0.4s ease-in-out; /* Smooth transition on hover */
+  transition: background-image 0.4s ease-in-out, opacity 0.4s ease-in-out; /* Smooth transition on hover */
 
   /* Optional: Add any other styles you need for the button */
 }
@@ -16,4 +16,5 @@
 .discord-button:hover {
   background-image: linear-gradient(45deg, #800080, #8B008B); /* Purple gradient */
   color: white; /* Change text color to white on hover */
+  opacity: 0.8; /* Set the opacity to create a fade effect */
 }
