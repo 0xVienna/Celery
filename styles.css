@@ -19,10 +19,5 @@
   opacity: 0.8; /* Set the opacity to create a fade effect */
 }
 
-/* Add this to your CSS stylesheet to style the footer with a green gradient background */
-.footer {
-  background-image: linear-gradient(45deg, #00FF00, #008000); /* Green gradient */
-  color: white; /* Set the text color to white for better visibility */
-  padding: 20px; /* Add some padding to the footer for spacing */
-}
+
 
