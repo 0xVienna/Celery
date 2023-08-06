@@ -20,4 +20,13 @@
 }
 
 
+/* Add this to your CSS stylesheet to style the footer with a green gradient background */
+footer {
+  background-image: linear-gradient(45deg, #34D399, #065F46); /* Green gradient */
+  color: white; /* Set the text color to white for better visibility */
+  padding: 24px; /* Add some padding to the footer for spacing */
+}
+
+
+
 
