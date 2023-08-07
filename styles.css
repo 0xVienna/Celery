@@ -26,3 +26,17 @@ footer {
   color: white; /* Set the text color to white for better visibility */
   padding: 24px; /* Add some padding to the footer for spacing */
 }
+
+/* Set the background gradient to a moving light orange gradient */
+body {
+  background-image: linear-gradient(45deg, #FFD700, #FFA500);
+  background-size: 400% 400%;
+  background-position: center top;
+  animation: gradient 3s ease-in-out infinite;
+}
+
+/* Animation for the gradient */
+@keyframes gradient {
+  0%, to { background-size: 400% 400%; background-position: center top; }
+  50% { background-size: 200% 200%; background-position: center center; }
+}
